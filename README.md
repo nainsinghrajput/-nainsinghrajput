@@ -142,7 +142,7 @@ class Nain:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nain_Singh_Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nain-singh-rajput](https://www.linkedin.com/in/nain-singh-rajput-28491a339?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nain_Singh_Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nain-singh-rajput))
 [![Gmail](https://img.shields.io/badge/Gmail-rajputajnna@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputajnna@gmail.com)
 
 </div>
